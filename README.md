@@ -20,6 +20,10 @@ GitHub：[likfe](https://github.com/likfe)
 E-mail：[Gmail](mailto:cafexiaoting@gmail.com)
 
 ## 在线阅读和下载
+项目地址：
+[https://github.com/likfe/smack4-doc-zh](https://github.com/likfe/smack4-doc-zh)
+
+预览和下载：
 [https://likfe.gitbooks.io/smack4-doc-zh/](https://likfe.gitbooks.io/smack4-doc-zh/)
 
 PS:如果无法访问，请尝试借助梯子
