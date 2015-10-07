@@ -11,7 +11,7 @@
 
 如果你有任何意见或问题请通过下面的方式联系我。
 ## 联系我
-Sina：[蔚蓝的星光](http://weibo.com/zyansen)
+Sina：[cafeting](http://weibo.com/zyansen)
 
 CSDN：[他叫自己Mr.张](http://blog.csdn.net/ys743276112)
 
