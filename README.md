@@ -22,4 +22,6 @@ E-mail：[Gmail](mailto:cafexiaoting@gmail.com)
 ## 在线阅读和下载
 [https://likfe.gitbooks.io/smack4-doc-zh/](https://likfe.gitbooks.io/smack4-doc-zh/)
 
+PS:如果无法访问，请尝试借助梯子
+
 >翻译于 2015/10/07 ，转载请注明出处。
